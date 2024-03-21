@@ -2,6 +2,11 @@
 
 This project is a simple YouTube clone that allows users to view videos from a specific channel. It fetches videos from a YouTube channel using the YouTube Data API and displays video thumbnails, titles, authors, views, and publication dates.
 
+Accessing the Budget App
+The budget app is hosted on GitHub Pages and can be accessed using the following link:
+
+[https://bhavin823.github.io/My-YouTube-Channel-Clone/)
+
 ## Features
 
 - Fetches videos from a specific YouTube channel using the YouTube Data API.
