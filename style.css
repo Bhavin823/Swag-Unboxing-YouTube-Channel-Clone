@@ -186,13 +186,47 @@ hr{
     .side-bar {
       display: none;
     }
-    .search {
+
+    /* .search {
+      display: none;
+    } */
+
+    .search input{
+      width: 110px;
+    }
+
+    .mic{
       display: none;
     }
+
+    .si{
+      font-size: large;
+      padding: 0 3px;
+    }
+
+    .search button{
+      width: 43px;
+    }
+
+    .logo  p{
+      text-align: center;
+      display: inline-block;
+      padding-right: 7px;
+      font-size: large;
+    }
+
+    .videocam, .apps, .notifications {
+      display: none;
+    }
+
+    .display-this{
+      padding: 0px 0px 7px 14px;
+    }
+    
 }
 
-@media (max-width: 900px) {
+/* @media (max-width: 900px) {
     .search input {
       width: 25rem;
     }
-  }
+  } */
