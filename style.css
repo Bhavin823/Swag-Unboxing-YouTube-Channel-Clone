@@ -175,8 +175,7 @@ hr{
     margin-bottom: 6px;
   }
    
-  .title a,
-  span {
+  .title a, span {
     text-decoration: none;
     color: rgb(96, 96, 96);
     font-size: 12px;
@@ -213,6 +212,8 @@ hr{
       display: inline-block;
       padding-right: 7px;
       font-size: large;
+      font-family: Arial, serif;
+      color: rgb(96, 96, 96);
     }
 
     .videocam, .apps, .notifications {
