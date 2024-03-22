@@ -31,6 +31,16 @@ main{
     overflow-y: hidden;
 }
 
+.logo p{
+    text-align: center;
+    display: inline-block;
+    padding: 0;
+    padding-left:50px;
+    font-size: x-large;
+    font-family:"Roboto", "Arial", sans-serif;
+    color: #FF0000;
+}
+
 @media (max-width: 768px) {
     .side-bar{
         display: none;
@@ -181,17 +191,19 @@ hr{
     font-size: 12px;
   }
 
+
+/* mobile */
 @media (max-width: 768px) {
     .side-bar {
       display: none;
     }
 
-    /* .search {
-      display: none;
-    } */
+    .search-bar {
+      font-size:medium;
+    }
 
     .search input{
-      width: 110px;
+      width: 150px;
     }
 
     .mic{
@@ -210,7 +222,8 @@ hr{
     .logo  p{
       text-align: center;
       display: inline-block;
-      padding-right: 7px;
+      padding: 0;
+      padding-right: 10px;
       font-size: large;
       font-family: Arial, serif;
       color: rgb(96, 96, 96);
@@ -226,6 +239,23 @@ hr{
     
 }
 
+footer {
+  background-color: #ddd;
+  text-align: center;
+  padding: 8px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+footer a{
+  text-decoration: none;
+  color: rgb(96, 96, 96);
+}
+
+footer a:hover{
+  color: crimson;
+}
 /* @media (max-width: 900px) {
     .search input {
       width: 25rem;
