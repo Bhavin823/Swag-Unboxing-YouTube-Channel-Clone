@@ -1,6 +1,12 @@
-# "Swag Unboxing" YouTube Channel  Clone
+# Swag-Unboxing-YouTube-Channel-Clone
 
 This project is a simple YouTube clone that allows users to view videos from a specific channel. It fetches videos from a YouTube channel using the YouTube Data API and displays video thumbnails, titles, authors, views, and publication dates.
+
+## Accessing the Budget App
+
+The page is hosted on GitHub Pages and can be accessed using the following link:
+
+[ https://bhavin823.github.io/Swag-Unboxing-YouTube-Channel-Clone/ ]
 
 ## Features
 
@@ -8,13 +14,6 @@ This project is a simple YouTube clone that allows users to view videos from a s
 - Displays video thumbnails, titles, authors, views, and publication dates.
 - Allows users to click on a video to watch it in a new tab.
 - Implements a search bar to search for videos on YouTube.
-
-## Accessing the Budget App
-
-The budget app is hosted on GitHub Pages and can be accessed using the following link:
-
-[https://bhavin823.github.io/My-YouTube-Channel-Clone/]
-
 
 ## Technologies Used
 
