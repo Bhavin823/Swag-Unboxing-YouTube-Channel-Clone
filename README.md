@@ -9,6 +9,13 @@ This project is a simple YouTube clone that allows users to view videos from a s
 - Allows users to click on a video to watch it in a new tab.
 - Implements a search bar to search for videos on YouTube.
 
+## Accessing the Budget App
+
+The budget app is hosted on GitHub Pages and can be accessed using the following link:
+
+[https://bhavin823.github.io/My-YouTube-Channel-Clone/]
+
+
 ## Technologies Used
 
 - HTML
