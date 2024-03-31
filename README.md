@@ -2,7 +2,7 @@
 
 This project is a simple YouTube clone that allows users to view videos from a specific channel. It fetches videos from a YouTube channel using the YouTube Data API and displays video thumbnails, titles, authors, views, and publication dates.
 
-## Accessing the Budget App
+## Accessing the Project Site
 
 The page is hosted on GitHub Pages and can be accessed using the following link:
 
